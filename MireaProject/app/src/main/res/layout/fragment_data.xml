@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DataFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Valve Corporation (также известная как Valve Software, с англ.«вентиль, клапан») — американская частная компания, занимающаяся разработкой, изданием и цифровой дистрибуцией компьютерных игр. Её наиболее известные продукты — сервис цифровой дистрибуции игр и программного обеспечения Steam, компьютерные игры и серии Half-Life, Portal, Counter-Strike, Left 4 Dead, Team Fortress 2 и Dota 2. Большинство разработанных Valve игр использует её собственные игровые движки GoldSrc (до 2004-го), Source и Source 2. Штаб-квартира компании находится в городе Белвью, штат Вашингтон, недалеко от Сиэтла."
+        android:textColor="#F44336"
+        android:textSize="24sp" />
+
+</FrameLayout>
