@@ -39,4 +39,19 @@
         android:name="ru.mirea.makarovra.mireaproject.WorkerFragment"
         android:label="fragment_worker"
         tools:layout="@layout/fragment_worker" />
+    <fragment
+        android:id="@+id/audioFragment"
+        android:name="ru.mirea.makarovra.mireaproject.AudioFragment"
+        android:label="fragment_audio"
+        tools:layout="@layout/fragment_audio" />
+    <fragment
+        android:id="@+id/cameraFragment"
+        android:name="ru.mirea.makarovra.mireaproject.CameraFragment"
+        android:label="fragment_camera"
+        tools:layout="@layout/fragment_camera" />
+    <fragment
+        android:id="@+id/sensorFragment"
+        android:name="ru.mirea.makarovra.mireaproject.SensorFragment"
+        android:label="fragment_sensor"
+        tools:layout="@layout/fragment_sensor" />
 </navigation>

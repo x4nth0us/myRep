@@ -28,5 +28,17 @@
             android:id="@+id/workerFragment"
             android:icon="@android:drawable/btn_star_big_on"
             android:title="Worker" />
+        <item
+            android:id="@+id/audioFragment"
+            android:icon="@android:drawable/ic_btn_speak_now"
+            android:title="Audio" />
+        <item
+            android:id="@+id/cameraFragment"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Camera" />
+        <item
+            android:id="@+id/sensorFragment"
+            android:icon="@android:drawable/ic_input_get"
+            android:title="Sensor" />
     </group>
 </menu>
