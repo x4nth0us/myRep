@@ -40,5 +40,13 @@
             android:id="@+id/sensorFragment"
             android:icon="@android:drawable/ic_input_get"
             android:title="Sensor" />
+        <item
+            android:id="@+id/fileHandlingFragment"
+            android:icon="@android:drawable/ic_menu_agenda"
+            android:title="FileHandling" />
+        <item
+            android:id="@+id/profileFragment"
+            android:icon="@drawable/ic_launcher_foreground"
+            android:title="Profile" />
     </group>
 </menu>
