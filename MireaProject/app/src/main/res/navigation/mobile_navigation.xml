@@ -69,4 +69,9 @@
         android:name="ru.mirea.makarovra.mireaproject.httpurlfragment.HttpUrlFragment"
         android:label="fragment_http_url"
         tools:layout="@layout/fragment_http_url" />
+    <fragment
+        android:id="@+id/mapFragment"
+        android:name="ru.mirea.makarovra.mireaproject.MapFragment"
+        android:label="fragment_map"
+        tools:layout="@layout/fragment_map" />
 </navigation>

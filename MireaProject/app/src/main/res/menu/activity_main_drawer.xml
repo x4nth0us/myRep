@@ -52,5 +52,9 @@
             android:id="@+id/httpUrlFragment"
             android:icon="@drawable/googleg_standard_color_18"
             android:title="HttpUrl" />
+        <item
+            android:id="@+id/mapFragment"
+            android:icon="@drawable/ic_menu_mapmode"
+            android:title="Map" />
     </group>
 </menu>
